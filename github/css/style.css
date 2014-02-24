@@ -1,0 +1,12 @@
+body {
+
+}
+
+.boxes {
+	float: left;
+	padding: 10px;
+	background: #c0c0c0;
+	border: 1px solid #000;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+}
