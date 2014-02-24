@@ -1,0 +1,51 @@
+body {
+ max-width: 50em;
+ margin: 0 auto;
+ background: #fff;
+ color: #333;
+ font-family: Verdana,sans-serif;
+ font-size: 75%;
+ line-height: 1.75em;
+}
+.pager {
+ list-style: none;
+ text-align: right;
+ text-transform: uppercase;
+ clear: both;
+ margin-bottom: 1.75em;
+}
+.pager li {
+ display: inline;
+ margin-left: .25em;
+}
+.pager a {
+ background: #888;
+ color: #fff;
+ border: 1px solid #888;
+ padding: .25em .5em;
+ text-decoration: none;
+}
+.pager .here {
+ color: #888;
+ border: 1px solid #888;
+ padding: .25em .5em;
+}
+.product-list {
+ list-style: none;
+ margin-bottom: 1.75em;
+}
+.product-list li {
+ float: left;
+ margin: 0 1em 1em 0;
+ width: 10em;
+ height: 10em;
+ line-height: 10em;
+ border: 1px solid #acc314;
+ color: #888;
+ font-style: italic;
+ text-align: center;
+}
+.loading {
+ min-height: 5em;
+ background: url('http://preloaders.net/preloaders/287/Filling%20broken%20ring.gif') center center no-repeat;
+}
