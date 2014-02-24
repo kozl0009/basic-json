@@ -1,0 +1,34 @@
+[
+	{
+	    "title" : "This is the first title", 
+	    "caption"   : "and the first caption underneath it",
+	    "url" : "coolthing.html",
+	    "imageUrl" : "img/file5181338228603.jpg",
+		"imageDescr" : "Loremipsum",
+	    "credits": "Why me, of course."
+	},
+	{
+	    "title" : "This is the second title", 
+	    "caption"   : "and the second caption underneath it",
+	    "url" : "http://google.com",
+	   	"imageUrl" : "img/1388344538s2wq5.jpg",
+		"imageDescr" : "Loremipsum",
+	    "credits": "You might of guessed it, I did it as well."
+	},
+	{
+	    "title" : "businessman-smoking", 
+	    "caption"   : "and the second caption underneath it",
+	    "url" : "http://google.com",
+	   	"imageUrl" : "img/stock-photo-5613730-businessman-smoking-cigarette-and-wokring-on-laptop.jpg",
+		"imageDescr" : "Loremipsum",
+	    "credits": "Fitzer"
+	},
+	{
+	    "title" : "Flowing blood", 
+	    "caption"   : "and the third caption underneath it",
+	    "url" : "http://google.com",
+	   	"imageUrl" : "img/flowing-blood-451878-m.jpg",
+		"imageDescr" : "Loremipsum",
+	    "credits": "Lucretious"
+	}
+]
